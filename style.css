@@ -46,7 +46,7 @@ body {
 }
 
 .container__botao:hover {
-    color: var(--cor-hover-botao: rgb(125, 48, 187);
+    background-color: var(--cor-hover-botao: rgb(125, 48, 187);
 }
 
 .botao__secundario {
